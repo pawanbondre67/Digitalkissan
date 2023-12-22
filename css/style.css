@@ -119,8 +119,8 @@ nav {
   padding: 0;
 }
 #logo img {
-    height: 50px;
-    width : 50px;
+    height: 60px;
+    width : 60px;
     border-radius: 50%;
 }
 #logo a {
@@ -130,7 +130,7 @@ nav {
     font-size: 43px;
     letter-spacing: 1px;
     color: #fff;
-    padding: 0px 12px;
+    padding: 0px 0px;
 }
 .sub-headder h6 a {
     font-size: 13px;
@@ -141,9 +141,9 @@ nav {
     left: 89px;
     padding-left: 7px;
     line-height: 21px;
-    color: #ffc107;
+    color: #251f0a;
     letter-spacing: 1.5px;
-    font-weight: bold;
+    font-weight: bolder;
     text-transform: capitalize;
 }
 /* Since we'll have the "ul li" "float:left"
